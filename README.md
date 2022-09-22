@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hello! I'm Eduardo Costa, but you can call me Edu 😎🍕
 
-<!--
-**CodeEduBR/CodeEduBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🛠 I’m currently working as a Business Analyst and QA
+- 🚀 I’m currently learning JS and Test Automation
+- 😉 Pronouns: ele/dele
+- 🤖 Fun fact: Digital Transformation and IOT (Internet of Things)
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://beacons.ai/codeedubr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeedubr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeedubr&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Edu-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Edu-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+  <img align="center" alt="Edu-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
+  <img align="center" alt="Edu-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Edu-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />  
+  
+</div>
+
+##
+
+<div>
+
+</div>
