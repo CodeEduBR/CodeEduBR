@@ -23,6 +23,4 @@
 
 ##
 
-<div>
-
-</div>
+![Snake animation](https://github.com/codeedubr/codeedubr/blob/output/github-contribution-grid-snake.svg
