@@ -5,8 +5,11 @@
 - 😉 Pronouns: ele/dele
 - 🤖 Fun fact: Digital Transformation and IOT (Internet of Things)
 
-<div>
-  <a href="https://beacons.ai/codeedubr">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá.+Eu+sou+o+Edu+;Apaixonado+por+Tecnologia.;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+##
+
+<div align="center">
+  <a href="https://github.com/codeedubr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeedubr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeedubr&layout=compact&langs_count=16&theme=dark"/>
 </div>
